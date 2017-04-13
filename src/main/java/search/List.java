@@ -3,8 +3,6 @@ package search;
 import java.util.ArrayList;
 import java.util.Random;
 
-import static java.util.Collections.min;
-
 /**
  * Created by Denis on 12.04.2017.
  */
